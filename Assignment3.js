@@ -1,3 +1,4 @@
+Name:Abubakar Aamir
 
 // Question # 01
 // var a=+prompt("Enter a Value for a : ");
